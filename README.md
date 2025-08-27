@@ -1,4 +1,14 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM).
+## Agustin Benavidez - Legajo 62344
+
+**Proyecto de Kotlin Multiplatform - Programación II**
+
+Este es un proyecto educativo de Kotlin Multiplatform con Compose que demuestra el desarrollo multiplataforma dirigido a Android, iOS, Web y Desktop (JVM). 
+
+### 📱 Características de la Aplicación:
+- Interfaz de usuario moderna con Material Design 3
+- Navegación fluida entre pantallas usando Voyager
+- Animaciones suaves con AnimatedVisibility
+- Formularios interactivos con validación en tiempo real
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
